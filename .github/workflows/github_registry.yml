@@ -1,4 +1,4 @@
-name: CI to GHCR 
+name: CI to GHCR-01
 
 on:
   push:
